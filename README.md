@@ -29,7 +29,7 @@ A dev board based on Raspberry RP2040 MCU
 ### 成品图片
 
 #### V1.2
-![2](.github/2RQ%5B(I%60IS_LTK5A%400%40T4%60Q6.jpg)
+![2](.github/1.2.jpg)
 
 #### V1.1
 ![1](/.github/IMG_0548.JPG)
