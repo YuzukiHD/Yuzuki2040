@@ -14,7 +14,7 @@ A dev board based on Raspberry RP2040 MCU
 
 ### 更新日志
 
-* 1.2 - 暂未验证
+* 1.2 - 验证成功
     * 增加CH340N作为板载UART转换芯片，方便MicroPython等开发
     * 增加电源保护反接保护
     * 增加Micro USB接口作为串口输出
@@ -30,6 +30,8 @@ A dev board based on Raspberry RP2040 MCU
 
 #### V1.2
 ![2](.github/1.2.jpg)
+![2](.github/2%20(1).jpg)
+![2](.github/2%20(2).jpg)
 
 #### V1.1
 ![1](/.github/IMG_0548.JPG)
