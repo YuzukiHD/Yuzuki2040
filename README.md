@@ -3,6 +3,8 @@ A dev board based on RaspberryPi RP2040 MCU
 
 ## Development board based on Raspberry Pi RP2040 MCU design.
 
+iBom: https://yuzukihd.gloomyghost.com/Yuzuki2040/
+
 ### Update log
 
 * 1.4-Successful verification
